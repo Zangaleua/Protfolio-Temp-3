@@ -2,6 +2,8 @@
 
 A sleek, interactive personal portfolio website showcasing professional work and skills. Built with modern web technologies and featuring smooth animations, custom cursor effects, and responsive design.
 
+![screencapture-127-0-0-1-5500-index-html-2024-12-08-01_12_31](https://github.com/user-attachments/assets/2b70a8a6-5d93-439e-aae6-cd71a8d21795)
+
 ## 🌟 Features
 
 - **Modern UI/UX Design**
